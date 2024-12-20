@@ -46,9 +46,9 @@
 
 ###  Online IDE's :
 
--[W3schools](https://www.w3schools.com/)- Best For HTML,CSS,Js.
--[Online GDB](https://www.onlinegdb.com/online_python_compiler)- Best For All Normal Programing.
--[Programz](https://www.programiz.com/python-programming/online-compiler/)- Best For All Normal Prgraming.
+- [W3schools](https://www.w3schools.com/)- Best For HTML,CSS,Js.
+- [Online GDB](https://www.onlinegdb.com/online_python_compiler)- Best For All Normal Programing.
+- [Programz](https://www.programiz.com/python-programming/online-compiler/)- Best For All Normal Prgraming.
 
 
 
