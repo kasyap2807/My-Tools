@@ -26,3 +26,29 @@
 
 ### Learning Resources:
 - [Teusuko's YouTube Channel](https://www.youtube.com/channel/UCxPb3Zx6D6y9kLvFvluVOmQ) - A great resource for learning Java.
+
+
+### AI chats :
+
+- [claude AI](https://claude.ai/new)- Best For Coding and text or temp data generation
+- [Notebook lm](https://notebooklm.google/)- Best For quick learning
+
+###  My IDE's :
+
+- [VS-Code](https://code.visualstudio.com/)- Best For All Prgraming languages
+- [Intellij](https://www.jetbrains.com/idea/)= Best For Java(spring boot r Projects) Based Codeing
+- [pycharm](https://www.jetbrains.com/pycharm/)- Best For Python Based Coding
+- [jupyter](https://jupyter.org/)- Best For Python(ML) Notebook Based Coding
+- [MYSQL](https://www.mysql.com/)- best for SQL DB (spl -> WorkBench)
+- [Mongo DB](https://www.mongodb.com/try/download/compass)- Best For no-SQL Db
+- [Windserf](https://codeium.com/windsurf)- Best For All Programing languages( Ai Integrated IDE)
+
+
+###  Online IDE's :
+
+-[W3schools](https://www.w3schools.com/)- Best For HTML,CSS,Js
+-[Online GDB](https://www.onlinegdb.com/online_python_compiler)- Best For All Normal Programing
+-[Programz](https://www.programiz.com/python-programming/online-compiler/)- Best For All Normal Prgraming
+
+
+
