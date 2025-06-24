@@ -17,7 +17,7 @@
 
 ### SQL Tools & Resources:
 - [Sqlectron](https://sourceforge.net/projects/sqlectron.mirror/) - A modern SQL client for interacting with databases.
-- [Notion for MySQL](https://malleable-tulip-3a4.notion.site/SQL-a005824981ed434a88953617783ddd0f#67699a1d135a43d3a9658be0a04a186e) - A Notion page for MySQL guides and best practices.
+- [Notion for MySQL](https://ambitious-manager-c6b.notion.site/SQL-21c67345fcc880a7b620d353fc388632) - A Notion page for MySQL guides and best practices.
 
 ### Deployment Platforms:
 - [Netlify](https://www.netlify.com/) - Ideal for deploying frontend applications like React and Angular (Free tier available).
